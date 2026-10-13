@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Theo, an undergrad Software Engineer based in Greece.
+
+I mostly work on Unity coding games both 2D and 3D 
+But in the 3 years of collage gotten to use many more tools.
+
+This is a fresh profile where I'll be uploading my projects
 <!--
 **thodoristolis20-sudo/thodoristolis20-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
